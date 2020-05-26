@@ -1,1 +1,0 @@
-Insert into USUARIO (ID,USUARIO,CLAVE,NOMBRE) values ('1','peet','peet','peter');
